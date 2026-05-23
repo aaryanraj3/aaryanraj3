@@ -67,14 +67,6 @@ My resume with my skills, projects, experience, and education details.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryanraj3&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanraj3&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Contribution
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aaryanraj3&theme=tokyonight&hide_border=false)
