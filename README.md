@@ -63,7 +63,7 @@ My personal portfolio website where I showcase my skills, projects, and develope
 ### 📄 Resume
 My resume with my skills, projects, experience, and education details.
 
-🔗 **Resume:** Add your resume link here
+🔗 **Resume:** https://github.com/aaryanraj3/aaryanraj3/blob/main/resume.pdf
 
 ---
 
@@ -89,11 +89,11 @@ My resume with my skills, projects, experience, and education details.
 
 [![GitHub](https://img.shields.io/badge/GitHub-aaryanraj3-black?style=for-the-badge&logo=github)](https://github.com/aaryanraj3)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryanraj3/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel)](https://aaryanraj3.github.io/Aaryan_Raj_portfolio/)
 
-[![Resume](https://img.shields.io/badge/Resume-View-FF6B6B?style=for-the-badge&logo=readme)](https://aaryanraj3.github.io/Aaryan_Raj_portfolio/CV_Aaryan_Raj.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-FF6B6B?style=for-the-badge&logo=readme)](https://github.com/aaryanraj3/aaryanraj3/blob/main/resume.pdf)
 
 ---
 
