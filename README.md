@@ -58,7 +58,7 @@ An EdTech platform made for students with study tools, tests, quizzes, notes, le
 ### 🌐 Portfolio Website
 My personal portfolio website where I showcase my skills, projects, and developer journey.
 
-🔗 **Portfolio:** Add your portfolio link here
+🔗 **Portfolio:** https://aaryanraj3.github.io/Aaryan_Raj_portfolio
 
 ### 📄 Resume
 My resume with my skills, projects, experience, and education details.
